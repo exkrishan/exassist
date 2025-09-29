@@ -1,0 +1,5 @@
+{
+  "name": "Agent Assist UI Demo",
+  "description": "A demo application showcasing a real-time Agent Assist UI for voice and chat channels.",
+  "requestFramePermissions": []
+}
