@@ -1,9 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  optimizeDeps: {
-    include: ['react', 'react-dom']
-  },
+  root: './',
   build: {
     rollupOptions: {
       input: 'index.html'
